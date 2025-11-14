@@ -7,9 +7,8 @@ The analysis includes data cleaning, EDA, feature insights, and a Power BI dashb
 
 ## 🖼 Dashboard Preview
 
-![Dashboard](dashboard (2).png)
+<img width="1331" height="745" alt="dashboard (2)" src="https://github.com/user-attachments/assets/5f0cbc51-123e-4a0b-8771-da280d05eeb7" />
 
-*(Add your exported dashboard image as `dashboard (2).png` in the same folder)*
 
 ---
 
